@@ -1,7 +1,8 @@
 # Javascripting
 Basic javascript tutorial from https://github.com/sethvincent/javascripting
 
-Continued learning
+Continued learning:  
+  
 Task List
 - [ ] Closures
 - [ ] Prototypes
